@@ -4,7 +4,7 @@ A full stack developer / soon to be robotics engeneer building products at Unive
 ## Work Experience
 
 ### Universal Robots
-->_Odense_
+_Odense_
 **Student Worker - Full Stack**
 _Aug 2021 to Present_
 
