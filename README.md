@@ -12,7 +12,7 @@ _Aug 2021 to Present_
 - Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
 Email: **<andreasgdp@gmail.com>**
-Phone: **+123 456 789**
+Phone: **+45 93 60 62 42**
 Website: **[andreasgdp.netlify.app](https://andreasgdp.netlify.app/)**
 
 || [LinkedIn](https://www.linkedin.com/in/andreasgdp/) || [Github](https://github.com/Andreasgdp) ||
